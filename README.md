@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Bisma Iqbal 👋
 
-<!--
-**bisma-iqbal15/bisma-iqbal15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI engineering student building practical LLM projects: retrieval, agents, and evaluation.
+Currently looking for AI engineer / AI intern opportunities.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Support Docs RAG](https://github.com/bisma-iqbal15/support-docs-rag)**: answers customer questions from documents, with citations and refusal when the docs don't cover it. Runs fully locally at zero cost, with an evaluation set to measure retrieval and answer quality.
+- **Support Agent** *(in progress)*: an AI agent that calls tools (docs search, order lookup, ticket creation), with human approval for risky actions and policy checks enforced in code.
+
+## Tech I use
+
+Python · FastAPI · Qdrant · Ollama · fastembed · Git · pytest
+
+## Contact
+
+- LinkedIn: www.linkedin.com/in/contact-bismaiqbal
+- Email: contact.bismaiqbal@gmail.com
